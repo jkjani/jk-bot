@@ -23,11 +23,11 @@
 
 
    <p align="left">
-  <a href="https://github.com/naveeddogar/KING-MD/fork">
-    <img src="https://img.shields.io/github/forks/naveeddogar/KING-MD?label=Fork&style=social">
+  <a href="https://github.com/naveeddogar/jk-bot/fork">
+    <img src="https://img.shields.io/github/forks/naveeddogar/jk-bot?label=Fork&style=social">
   <p align="left"> 
-  <a href="https://github.com/naveeddogar/KING-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/naveeddogar/KING-MD?style=social">
+  <a href="https://github.com/naveeddogar/jk-bot/stargazers">
+    <img src="https://img.shields.io/github/stars/naveeddogar/jk-bot?style=social">
       
   
  
